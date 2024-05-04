@@ -2,6 +2,8 @@
 
 This repository contains all the materials related to the 'Coffee & Beans Sales Analysis' project, which includes a detailed sales report and visualizations of the Beans-N-Leaves sales data from 2019 to 2021. The project demonstrates advanced data analysis and visualization techniques using R and professional-grade design with Adobe Illustrator.
 
+![Coffee & Beans Sales Poster](Coffee-Beans-Sales-Poster.png)
+
 ## Project Overview
 
 The Coffee & Beans Sales Analysis project aims to provide deep insights into the sales trends and performance of Beans N Leaves products across the United States. Utilizing comprehensive sales data, we have developed a series of visualizations to uncover patterns in sales distribution by state, performance of sales representatives, monthly sales trends, and product-driven profitability.
