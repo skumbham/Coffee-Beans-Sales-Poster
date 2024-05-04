@@ -2,7 +2,7 @@
 
 This repository contains all the materials related to the 'Coffee & Beans Sales Analysis' project, which includes a detailed sales report and visualizations of the Beans-N-Leaves sales data from 2019 to 2021. The project demonstrates advanced data analysis and visualization techniques using R and professional-grade design with Adobe Illustrator.
 
-![Coffee & Beans Sales Poster](https://github.com/skumbham/Coffee-Beans-Sales-Poster/blob/main/Readme%20Poster.svg?raw=true)
+![Coffee & Beans Sales Poster](https://github.com/skumbham/Coffee-Beans-Sales-Poster/blob/main/Readme%20Poster.png?raw=true)
 
 ## Project Overview
 
